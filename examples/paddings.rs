@@ -28,7 +28,7 @@ fn app() -> Element {
             height: "25%",
             width: "100%",
             padding: "10 30 50 70",
-            background: "gray",
+            background: "grey",
             rect {
                 height: "100%",
                 width: "100%",
@@ -52,7 +52,7 @@ fn app() -> Element {
             height: "25%",
             width: "100%",
             padding: "30 50 10",
-            background: "gray",
+            background: "grey",
             rect {
                 height: "100%",
                 width: "100%",
